@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:24:49.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="s2lR546JY6lUrjmb9kuC" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:27:38.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="DwO8NnpvW1SwgFfG21Ze" version="13.10.1" type="github">
   <diagram id="FlFnxUEjHs-KyTbt6JXV" name="Page-1">
-    <mxGraphModel dx="1395" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,6 +366,9 @@
             <mxPoint x="700" y="670" as="sourcePoint" />
             <mxPoint x="740" y="684.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bXR4TQcb5m0LNIhNbXhI-85" value="&lt;font style=&quot;font-size: 20px&quot;&gt;9.81 Park&lt;br&gt;데이타베이스설계 04분반&lt;br&gt;융합공학부 디지털이미징전공&lt;br&gt;20160392 박병제&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1010" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
